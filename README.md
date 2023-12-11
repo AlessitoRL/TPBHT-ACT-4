@@ -8,12 +8,12 @@ La problemática por resolver es el almacenamiento de información de los client
 
 ## Requerimientos 
 
-### a.	Servidores de aplicación, web, bases de datos, etc.
+### Servidores de aplicación, web, bases de datos, etc.
 NetBeans, Eclipse, IntellJ
-### b.	Paquetes adicionales.
+### Paquetes adicionales.
 java oracle sdk.17
 Apache Server v.2.0
-### c.	Versión de Java:
+### Versión de Java:
 Java v.8 
 
 ## Arquitectura
