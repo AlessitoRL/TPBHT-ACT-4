@@ -20,7 +20,7 @@ Java v.8
 ![image](https://github.com/AlessitoRL/TPBHT-ACT-4/assets/145762116/50b8ca7d-acbb-4dab-8dba-7670ffc2db52)
 
 ### Tabla de Contenidos:
-AgendaEMP
+AgendaRLEMP
 •	SRC
      Agenda.java
   	  Contacto.java
@@ -62,6 +62,7 @@ Descargar el archivo zip, disponible en la opción "Code" y descargar ZIP
 Dentro de las siguientes anexaciones al proyecto se encuentran: 
 -El desarrollo de un motor de búsqueda que facilite y filtre información por datos especificos.
 -Ampliar el registro y anexar datos especificos. Así como guardado de documentos.
+-Diseño de Interfaz.
 
 
 ## Créditos
