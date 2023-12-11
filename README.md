@@ -51,8 +51,8 @@ Si se desea eliminar un registro es necesario seleccionar el contacto y posterio
 
 ## Contribución
 •	Para clonar el repositorio se deberán seguir los siguientes pasos
-•	1.-Copiar el Comando git clone https://github.com/AlessitoRL/TPBHT-ACT-4.git
-•	2.- Descargar el archivo zip, disponible en la opción "Code" y descargar ZIP
+Copiar el Comando git clone "https://github.com/AlessitoRL/TPBHT-ACT-4.git"
+Descargar el archivo zip, disponible en la opción "Code" y descargar ZIP
 
 •	Para crear una nueva Branch:
 •	Seleccionamos la opción "Branches" y la opción en el recuadro verde "New Branch"
