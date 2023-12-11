@@ -1,11 +1,10 @@
 # Actividad 4 Taller de Productividad Basada en Herramientas Tecnologicas
-Proyecto para la materia de Taller de Productividad Basada en Herramientas Tecnológicas. 
-
+ 
 ## Descripción
-Esta herramienta es una agenda la cual maneja y analiza los contactos de los clientes la cual también genere una cita para la entrega de productos pedidos, está es desarrollada en Java hecha para el uso interno de la empresa con el objetivo de resolver la problemática presentada.
+Esta herramienta es una agenda la cual maneja y analiza los contactos de los clientes/proovedores, desarrollada para el uso interno de la empresa con el objetivo de resolver la problemática presentada.
 
 ## Problemática
-La problemática la cual he identificado es que dentro de la empresa/negocio donde trabajo es que se tiene poco orden al guardar los contactos de los clientes, por lo cual podría venir bien una agenda fácil de usar para los empleados donde puedan guardar de manera organizada y sencilla la información de los clientes que más compren.
+La problemática por resolver es el almacenamiento de información de los clientes y proveedores de la empresa, es decir los contactos. 
 
 ## Tabla de Contenidos
 
@@ -28,33 +27,20 @@ La problemática la cual he identificado es que dentro de la empresa/negocio don
       
 ## Requerimientos 
 
-- Diseño intuitivo, sencillo y amigable
-- Visualización de información
-- Opción para agregar información desde el software
-- Guardar nueva información, como empleados y clientes nuevos
-- Imprimir reporte
-
-**Versión de java**
-- Obtener versión actual de java
+•	Interfaz fácil de entender y utilizar.
+•	Catálogo de contactos.
+•	Información breve de la empresa.
+•	Diseño de aplicación con referencia a los colores e identidad de la marca.
 
 ## Instalación
   - Descargar el proyecto del repositorio
   - Abrimos la carpeta del proyecto
   - Dentro de la carpeta target encontraremos el archivo .jar
-  - Iniciamos el ejecutable
-
-Al ser un .jar el software no se instala, solo se ejecuta en el ambiente de JAVA por eso es importante que tengamos la última versión de java instalada en nuestro equipo.
-
-*Sin embargo si se quieren hacer cambios dentro del código es necesario abrir la carpeta dentro de un IDE.
+  - Iniciar el ejecutable
 
 ## Configuración
 - Instalamos la versión más actual de java ya que sin ella no podremos correr el software
 - Se configura el ambiente JAVA
-
-
-## Uso
-El software será para uso interno del departamento correspondiente dentro de la empresa, donde dependiendo del usuario cada uno tendrá permiso de acuerdo a sus responsabilidades.
-
 
 ## Créditos
 Desarrollado por:
