@@ -13,6 +13,9 @@ La problemática por resolver es el almacenamiento de información de los client
 •	Información breve de la empresa.
 •	Diseño de aplicación con referencia a los colores e identidad de la marca.
 
+## Arquitectura
+![image](https://github.com/AlessitoRL/TPBHT-ACT-4/assets/145762116/50b8ca7d-acbb-4dab-8dba-7670ffc2db52)
+
 ## Instalación
   - Descargar el proyecto del repositorio
   - Abrimos la carpeta del proyecto
