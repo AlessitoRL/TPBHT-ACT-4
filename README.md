@@ -6,25 +6,6 @@ Esta herramienta es una agenda la cual maneja y analiza los contactos de los cli
 ## Problemática
 La problemática por resolver es el almacenamiento de información de los clientes y proveedores de la empresa, es decir los contactos. 
 
-## Tabla de Contenidos
-
-  - **Agenda1**
-    - **src**
-      - Agenda.java
-      - Contacto.java
-      - Muestra.java
-    - **target**
-      - calsses
-        - Agenda.class
-        - Contacto.class
-        - Muestra.class
-      - maven-archiver
-        - pom.properties
-      - maven-status
-        - createdFiles.lst
-        - inputFiles.lst
-      - Agenda1-1.0-SNAPSHOT.jar
-      
 ## Requerimientos 
 
 •	Interfaz fácil de entender y utilizar.
